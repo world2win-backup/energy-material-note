@@ -25,6 +25,7 @@ Range and Preferred Levels of Ingredients for Non-Toxic Primers
 Integrated Data Collection Analysis (IDCA) Program - KClO3/Dodecane Mixture
 
 
+## H3 fuel
 
 Composition
 70
@@ -44,3 +45,6 @@ This energetic burst charge is used for small diameter shells (2...3 inch), sinc
 Method: The two components must be milled to a fine powder. The fineness of the charcoal is particularly important for good results. Using a more resctive charcoal will cut down on your milling times. The two components must be milled seperately. Sieve the fine chlorate onto a large sheet of paper. Discard residue left on the sieve; dont push it through. Then add a small amount of the charcoal, and mix it by hand until it is uniform. This will stop the chlroate from clumping. Now sieve the chlorate together with the remaining charcoal at least four times. Dont push or rub it through the sieve. Once agian, discard any residue. Finally repeat to add the binder. Never rub dextrin with chlorate through the sieve. This can then be coated onto rice hulls or some other nucleus to form burst charge, suitible for shells upto 4" diameter. The composition should burn much faster than black powder, with few sparks. If not, the charcoal is not fine enough.
 Source: 
 Shimizu[1]. Page 207
+
+## KNPSB
+https://www.nakka-rocketry.net/knpsb.html
